@@ -35,8 +35,7 @@ public class UserController {
 	}
 
 	@Autowired
-	User user;
-	
+	User user;	
 	
 	@Autowired
 	UserDAO userDAO;

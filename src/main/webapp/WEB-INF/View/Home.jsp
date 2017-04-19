@@ -30,14 +30,7 @@ margin:auto;
 	margin : 0 Auto;
 	background:	#DB7093;
 }
-/* .carousel-inner > .item > img, 
-.carousel-inner > .item > a > img{
-margin: auto;
-}  */
-
- </style>
- 
-
+</style>
 <body>
 <hr>
 <jsp:include page="CommonHeader.jsp"></jsp:include>

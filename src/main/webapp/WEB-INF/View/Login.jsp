@@ -52,9 +52,6 @@
 </div>
 </div>
 </form> 
-
-
-
 <jsp:include page="CommonFooter.jsp"></jsp:include> 
 </body>
 
